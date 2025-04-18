@@ -1,0 +1,7 @@
+streamlit
+pandas
+re
+shutil
+xlwings
+tempfile
+os
